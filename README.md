@@ -2,6 +2,8 @@
 
 part 1: ![alt text](https://github.com/CS5008-5009/lab3-KayL315/blob/main/part1.png?raw=true)
 
+part 2: ![alt text](https://github.com/CS5008-5009/lab3-KayL315/blob/main/part2.png?raw=true)
+
 
 
 # Lab3
